@@ -1,3 +1,3 @@
-# weather-widget2
+# Clock Widget from Logwork.com
 
-from weatherwidget.io
+Multi-try
